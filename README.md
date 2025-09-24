@@ -1,16 +1,10 @@
-# store1-client-analysis
+# Preparación de datos con limpieza y transformación en Store 1
 
-Este proyecto se desarrolló como parte de un bootcamp de análisis de datos, siendo el inicio del mismo en mis primeros pasos en esta nueva etapa, y tiene como objetivo apoyar a la empresa de comercio electrónico Store 1 en el lanzamiento de su nuevo Programa de Fidelización de Clientes.
+Este proyecto se desarrolló como parte de un bootcamp de análisis de datos, siendo el inicio del mismo en mis primeros pasos en esta nueva etapa.
 
-El análisis busca limpiar, transformar y organizar la base de clientes, con el fin de diseñar campañas personalizadas y optimizar futuras acciones de marketing.
+*Objetivo:* apoyar a la empresa de comercio electrónico Store 1 en el lanzamiento de su nuevo Programa de Fidelización de Clientes.
 
-Objetivos del proyecto
-
-- Limpiar y estandarizar perfiles de clientes.
-
-- Corregir y validar datos inconsistentes (nombres, edades, etc.).
-
-- Calcular el gasto total por cliente.
+El rol es de limpiar, transformar y organizar la base de clientes, con el fin de diseñar campañas personalizadas y optimizar futuras acciones de marketing.
 
 Tecnologías utilizadas:
 
